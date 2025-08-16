@@ -1,6 +1,6 @@
 # 👋 Hi there! Aakriti Arora this side :)
 
-🎓 I'm a third-year B.Tech student specializing in Information Technology  
+🎓 I'm a fourth-year B.Tech student specializing in Information Technology  
 💻 Passionate about software development, frontend technologies, and exploring new tech  
 🌱 Currently learning ReactJS, diving into backend development, and gaining insights into Cybersecurity
 
